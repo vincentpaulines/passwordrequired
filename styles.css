@@ -3,6 +3,7 @@ body{
 	color:white;
 	position:relative;left:300px;
 	max-width: 600px;
+	word-break: break-word;
 }
 
 h1{
