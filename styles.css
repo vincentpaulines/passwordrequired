@@ -28,7 +28,7 @@ form{
 .girl{
 	text-shadow: 2px 2px 4px #000000;
 	-webkit-animation: rainbow 2s infinite;
-	position:relative;left:65px;bottom:72px;
+	position:relative;left:75px;bottom:72px;
 }
 
 @-webkit-keyframes rainbow{
